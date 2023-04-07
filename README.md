@@ -1,4 +1,4 @@
-### Yo Im China
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=China)](https://git.io/typing-svg)
 
 
 
@@ -20,6 +20,19 @@ I wanna be your friend :)
             (__)\       )\/\
                 ||----w |
                 ||     ||
+
+
+ My Skills 
+I am a learning OSINT analyst.
+I am a pedo hunter.
+I know Basic HTML, Basic Python, and Basic Javascript.
+I am learning and practicing so I can get my linux+ certificate.
+
+
+
+
+
+
 
 
 🪙 Crypto 🪙
