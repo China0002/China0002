@@ -4,11 +4,11 @@
 
 
 
- My Skills 
+🔍 My Skills 🔍
 I am a learning OSINT analyst.
 I am a pedo hunter.
 I know Basic HTML, Basic Python, and Basic Javascript.
-I am learning and practicing so I can get my linux+ certificate.
+I want to learn all i can to better help  my friends. :)
 
 
 
