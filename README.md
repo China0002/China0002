@@ -25,8 +25,8 @@ I want to learn all i can to better help  my friends. :)
 🪙 Crypto 🪙
 
 
-BTC: 1DzC4W1bLRHu7oK24Fc5swwxG22MzAJGBe
+BTC: bc1q0cgdc4g07u9384va05j09qt3hpmyus8n78pg75
 
-ETH: 0x572fb4EA9358fd53e3CE6D896D2330b0a0E7367c
+ETH: 0x3FA79000153031cFe299DAD1e19413701aDcDCED
 
-BCH: qz88yuajvwuk54qg8etstpmcprguunydvuf2wyj3jf
+XMR: 45csDDW5Ao5hWPN6BFTcPV9ZMmdXbDdVd3jA5Ucr2y4i3Jdj39CofpRdRDbUvkBogRPQDbeQ3VtN3f5aKQv7MvLfVaTFyyp
