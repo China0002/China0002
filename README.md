@@ -13,7 +13,7 @@ I am a learning OSINT analyst.
 
 I am a pedo hunter.
 
-I know Basic HTML, Basic Python, and Basic Python.
+I know Basic HTML, Basic Python, and Linux.
 
 
 
